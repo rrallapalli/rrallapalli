@@ -54,7 +54,7 @@ Many of these projects are inspired by real-world enterprise problems around:
 
 ## 🏗 Featured Projects
 
-### 📈 Macroeconomic & Banking Analytics
+### 📈 Macroeconomic & Equity Capital Markets Analysis on Databricks
 Research-oriented ML and analytics workflows exploring interactions between macroeconomic variables, market behavior, and banking sector performance.
 
 [ML-driven Macroeconomic Explanatory Analysis](https://github.com/rrallapalli/ecm-explanatory-model-ml-databricks.git)
@@ -65,9 +65,14 @@ End-to-end analytics & AI project built on the Medallion Architecture using Data
 [Lending Decision Intelligence - Databricks](https://github.com/rrallapalli/lending-decision-intelligence-databricks.git)
 
 ### 🤖 LLM Fine-Tuning & Enterprise AI Workflows
-Experimentation with instruction tuning, RAG pipelines, evaluation frameworks, and enterprise AI use-case prototyping.
+LLM Engineering - A configurable LoRA/QLoRA fine-tuning platform for open LLMs, with live W&B monitoring, a model registry, evaluation, and an inference playground
 
-[FineTuneIt-LLM Fine-Tuning made Simple](https://github.com/rrallapalli/LLM-Fine-Tuning-as-a-Service-Platform.git)
+[FineTuneIt-LLM Fine-Tuning made Simple](https://github.com/rrallapalli/finetuneit.git)
+
+### 🤖 Signal Intelligence - RAG & Reasoning enabled Equity Signal Engine
+· Multi-Agent Architecture - LangGraph · Direct API-based Data Ingestion · RAG based Evidence Layer · LLM-based Reasoning · Sector-Aware Signal Synthesis
+
+[SignalLab](https://github.com/rrallapalli/SignalLab.git)
 
 ---
 
